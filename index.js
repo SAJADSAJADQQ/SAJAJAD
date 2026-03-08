@@ -349,8 +349,6 @@ const products = [
             "24g of high-quality, fast-absorbing premium whey protein powder per serving",
             "5.5g of BCAA in each servings",
             "Mix one scoop with water, milk or into your favourite smoothie",
-            "Gluten-free",
-            "Mix one scoop with water, milk or into your favourite smoothie",
             "Low in sugars and less than 120 calories"
         ],
         featured: false
@@ -381,7 +379,7 @@ const products = [
         originalPrice: "$39.99",
         image: "s3.jpg",
         specifications: [
-            "24g sustained-release casein protein",
+            "50g sustained-release casein protein",
             "Provides over 1,250 kcal per serving to fuel your goals.",
             "Supports muscle growth and recovery",
             "3 g Creatine ",
@@ -1540,23 +1538,7 @@ const products = [
         featured: false
     },
     // BPI Sports Products
-    {
-        id: 75,
-        title: "BPI SPORTS Best Protein",
-        category: "RONNIE COLEMAN",
-        description: "Multi-source protein blend",
-        price: "$69.99",
-        originalPrice: "$79.99",
-        image: "75.jpg",
-        specifications: [
-            "24g premium protein blend",
-            "Excellent taste profile",
-            "Easy mixing formula",
-            "Gluten-free",
-            "28 servings per container"
-        ],
-        featured: false
-    },
+  
      {
         id: 76,
         title: "BCAA TROPLCAL PUNCH ",
@@ -1711,123 +1693,7 @@ const products = [
         ],
         featured: false
     },
-     {
-        id: 88,
-        title: "BPI SPORTS Best Protein",
-        category: "RONNIE COLEMAN",
-        description: "Multi-source protein blend",
-        price: "$69.99",
-        originalPrice: "$79.99",
-        image: "88.jpg",
-        specifications: [
-            "0 SUGARS",
-            "0 CARBS",
-            "0 ARTIFICIAL COLORS ",
-            "0 SDY OR DAIRY ",
-         
-        ],
-        featured: false
-    },
-     {
-        id: 89,
-        title: "BPI SPORTS Best Protein",
-        category: "RONNIE COLEMAN",
-        description: "Multi-source protein blend",
-        price: "$69.99",
-        originalPrice: "$79.99",
-        image: "90.jpg",
-        specifications: [
-            "24g premium protein blend",
-            "Excellent taste profile",
-            "Easy mixing formula",
-            "Gluten-free",
-            "28 servings per container"
-        ],
-        featured: false
-    },
-     {
-        id: 91,
-        title: "BPI SPORTS Best Protein",
-        category: "RONNIE COLEMAN",
-        description: "Multi-source protein blend",
-        price: "$69.99",
-        originalPrice: "$79.99",
-        image: "91.jpg",
-        specifications: [
-            "24g premium protein blend",
-            "Excellent taste profile",
-            "Easy mixing formula",
-            "Gluten-free",
-            "28 servings per container"
-        ],
-        featured: false
-    },
-     {
-        id: 92,
-        title: "L-ARGININE ",
-        category: "RONNIE COLEMAN",
-        description: "Multi-source protein blend",
-        price: "$69.99",
-        originalPrice: "$79.99",
-        image: "92.jpg",
-        specifications: [
-            "180 SERVINGS ",
-            "L-ARGININE ",
-        
-        ],
-        featured: false
-    },
-     {
-        id: 93,
-        title: "TRIB",
-        category: "RONNIE COLEMAN",
-        description: "Multi-source protein blend",
-        price: "$69.99",
-        originalPrice: "$79.99",
-        image: "93.jpg",
-        specifications: [
-            "500MG TRIBULUS ",
-            "0 ADDED FILLERS ",
-            "0 STIMULANTS ",
-        ],
-        featured: false
-    },
-    
-    // EVOGEN Products
-    {
-        id: 94,
-        title: "EVOGEN EVP Plus Pre-Workout",
-        category: "INSANE LABZ",
-        description: "Professional-grade pre-workout",
-        price: "$64.99",
-        originalPrice: "$74.99",
-        image: "94.jpg",
-        specifications: [
-            "Clinically dosed ingredients",
-            "Sustained energy and focus",
-            "Enhanced pumps and vascularity",
-            "No artificial colors",
-            "30 servings per container"
-        ],
-        featured: false
-    },
-    {
-        id: 95,
-        title: "EVOGEN IsoJect Protein",
-        category: "INSANE LABZ",
-        description: "Ultra-pure whey protein isolate",
-        price: "$79.99",
-        originalPrice: "$89.99",
-        image: "95.jpg",
-        specifications: [
-            "26g pure whey isolate",
-            "Zero fat and lactose",
-            "Instant mixing formula",
-            "Great tasting flavors",
-            "27 servings per container"
-        ],
-        featured: false
-    },
+     
     {
         id: 96,
         title: "EVOGEN GlycoJect Carbs",
