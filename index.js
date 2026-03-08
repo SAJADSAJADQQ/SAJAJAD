@@ -1128,91 +1128,75 @@ const products = [
     // ULTIMATE NUTRITION Products
     {
         id: 48,
-        title: "CELLUCOR C4 Pre-Workout",
+        title: "Whey Gold",
         category: "ULTIMATE NUTRITION",
         description: "World's best-selling pre-workout",
         price: "$49.99",
         originalPrice: "$59.99",
         image: "s48.jpg",
         specifications: [
-            "Explosive energy and focus",
-            "Increased muscle pumps",
-            "Enhanced endurance",
-            "Great tasting flavors",
-            "30 servings per container"
+            "20 G PROTEIN ",
+            "CHOLESTES 40MG ",
+            "SODIUM 40MG",
+            "SUGERS 2G",
+            "TOTAL CARBOHYDRATES 9G"
         ],
         featured: false
     },
 
 
-     {
-        id: 49,
-        title: "ULTIMATE NUTRITION",
-        category: "ULTIMATE NUTRITION",
-        description: "World's best-selling pre-workout",
-        price: "$49.99",
-        originalPrice: "$59.99",
-        image: "s49.jpg",
-        specifications: [
-            "Explosive energy and focus",
-            "Increased muscle pumps",
-            "Enhanced endurance",
-            "Great tasting flavors",
-            "30 servings per container"
-        ],
-        featured: false
-    },
+    
 
      {
         id: 50,
-        title: "ULTIMATE NUTRITION",
+        title: "ISO ",
         category: "ULTIMATE NUTRITION",
         description: "World's best-selling pre-workout",
         price: "$49.99",
         originalPrice: "$59.99",
         image: "s50.jpg",
         specifications: [
-            "Explosive energy and focus",
-            "Increased muscle pumps",
-            "Enhanced endurance",
-            "Great tasting flavors",
-            "30 servings per container"
+            "PROTEIN 30 G ",
+            "SODIUM 50 MG ",
+            "SUGERS 1G",
+            "GCHOLESTEROL 2MG",
+            "CARBOHYDRATE 1G"
         ],
         featured: false
     },
 
      {
         id: 51,
-        title: "ULTIMATE NUTRITION",
+        title: "L-Carnitine",
         category: "ULTIMATE NUTRITION",
         description: "World's best-selling pre-workout",
         price: "$49.99",
         originalPrice: "$59.99",
         image: "s51.jpg",
         specifications: [
-            "Explosive energy and focus",
-            "Increased muscle pumps",
-            "Enhanced endurance",
-            "Great tasting flavors",
-            "30 servings per container"
+            "L-Carnitine 1000MG",
+            "SERVING SIZE 1 TABLETS",
+            "SERVING PER CONTAINER 30 ",
+            "300MG ",
+            "60 TABLETS"
         ],
         featured: false
     },
 
      {
         id: 52,
-        title: "ULTIMATE NUTRITION",
+        title: "ZMA",
         category: "ULTIMATE NUTRITION",
         description: "World's best-selling pre-workout",
         price: "$49.99",
         originalPrice: "$59.99",
         image: "s52.jpg",
         specifications: [
-            "Explosive energy and focus",
-            "Increased muscle pumps",
-            "Enhanced endurance",
-            "Great tasting flavors",
-            "30 servings per container"
+            "VITAMIN B6 10MG",
+            "ZINC 30MG",
+            "MAGNESIUM 450MG",
+            "90 CAPSULES ",
+    
         ],
         featured: false
     },
@@ -1221,18 +1205,18 @@ const products = [
 
      {
         id: 53,
-        title: "ULTIMATE NUTRITION",
+        title: "OMEGA 3",
         category: "ULTIMATE NUTRITION",
         description: "World's best-selling pre-workout",
         price: "$49.99",
         originalPrice: "$59.99",
         image: "s53.jpg",
         specifications: [
-            "Explosive energy and focus",
-            "Increased muscle pumps",
-            "Enhanced endurance",
-            "Great tasting flavors",
-            "30 servings per container"
+            "CALORIES 10 ",
+            "TOTAL FAT 1G ",
+            "EPA 180MG ",
+            "DHA 120MG ",
+            "OTHER OMEGA-3 FATTY ACIDS 30MG"
         ],
         featured: false
     },
@@ -1240,18 +1224,17 @@ const products = [
 
      {
         id: 54,
-        title: "ULTIMATE NUTRITION",
+        title: "XTREME AMINO",
         category: "ULTIMATE NUTRITION",
         description: "World's best-selling pre-workout",
         price: "$49.99",
         originalPrice: "$59.99",
         image: "s54.jpg",
         specifications: [
-            "Explosive energy and focus",
-            "Increased muscle pumps",
-            "Enhanced endurance",
-            "Great tasting flavors",
-            "30 servings per container"
+            "330 TABLETS ",
+            "PROTEIN 4.5G",
+            "CALORIES 18",
+           
         ],
         featured: false
     },
@@ -1259,176 +1242,92 @@ const products = [
 
 
 
-     {
-        id: 56,
-        title: "ULTIMATE NUTRITION",
-        category: "ULTIMATE NUTRITION",
-        description: "World's best-selling pre-workout",
-        price: "$49.99",
-        originalPrice: "$59.99",
-        image: "s56.jpg",
-        specifications: [
-            "Explosive energy and focus",
-            "Increased muscle pumps",
-            "Enhanced endurance",
-            "Great tasting flavors",
-            "30 servings per container"
-        ],
-        featured: false
-    },
-
-
-
-
-
-     {
-        id: 57,
-        title: "ULTIMATE NUTRITION",
-        category: "ULTIMATE NUTRITION",
-        description: "World's best-selling pre-workout",
-        price: "$49.99",
-        originalPrice: "$59.99",
-        image: "s57.jpg",
-        specifications: [
-            "Explosive energy and focus",
-            "Increased muscle pumps",
-            "Enhanced endurance",
-            "Great tasting flavors",
-            "30 servings per container"
-        ],
-        featured: false
-    },
-
-
-
-
-
-     {
-        id: 58,
-        title: "ULTIMATE NUTRITION",
-        category: "ULTIMATE NUTRITION",
-        description: "World's best-selling pre-workout",
-        price: "$49.99",
-        originalPrice: "$59.99",
-        image: "s58.jpg",
-        specifications: [
-            "Explosive energy and focus",
-            "Increased muscle pumps",
-            "Enhanced endurance",
-            "Great tasting flavors",
-            "30 servings per container"
-        ],
-        featured: false
-    },
-
-
-
-
-   
+     
 
     // JYM Supplement Science Products
     {
         id: 56,
-        title: "USN Pre-Workout",
+        title: "HYPERBOLIC GH MASS",
         category: "USN",
         description: "Scientifically formulated pre-workout",
         price: "$69.99",
         originalPrice: "$79.99",
         image: "s56.jpg",
         specifications: [
-            "Clinically dosed ingredients",
-            "Sustained energy and focus",
-            "Increased muscle pumps",
-            "No artificial dyes",
-            "30 servings per container"
+            "222G CARBS",
+            "7.5G CREATINE ",
+            "46G PROTINE",
+            "1183 KCAL ",
+         
         ],
         featured: false
     },
      {
         id: 57,
-        title: "USN Pre-Workout",
+        title: "HYPERBOLIC MASS",
         category: "USN",
         description: "Scientifically formulated pre-workout",
         price: "$69.99",
         originalPrice: "$79.99",
         image: "s57.jpg",
         specifications: [
-            "Clinically dosed ingredients",
-            "Sustained energy and focus",
-            "Increased muscle pumps",
-            "No artificial dyes",
-            "30 servings per container"
+            "210 G CAPRBS ",
+            "8G CREABOLIC STACK",
+            "4833 KJ",
+            "60 G PROTEIN",
+            
         ],
         featured: false
     },
 
-      {
-        id: 58,
-        title: "USN Pre-Workout",
-        category: "USN",
-        description: "Scientifically formulated pre-workout",
-        price: "$69.99",
-        originalPrice: "$79.99",
-        image: "s58.jpg",
-        specifications: [
-            "Clinically dosed ingredients",
-            "Sustained energy and focus",
-            "Increased muscle pumps",
-            "No artificial dyes",
-            "30 servings per container"
-        ],
-        featured: false
-    },
+    
       {
         id: 59,
-        title: "USN Pre-Workout",
+        title: "Collagen",
         category: "USN",
         description: "Scientifically formulated pre-workout",
         price: "$69.99",
         originalPrice: "$79.99",
         image: "s59.jpg",
         specifications: [
-            "Clinically dosed ingredients",
-            "Sustained energy and focus",
-            "Increased muscle pumps",
-            "No artificial dyes",
-            "30 servings per container"
+            "5G PROTEIN",
+            "5G COLLAGEN ",
+            "0 SUGAR",
         ],
         featured: false
     },
 
       {
         id: 60,
-        title: "USN Pre-Workout",
+        title: "BCAA AMINO",
         category: "USN",
         description: "Scientifically formulated pre-workout",
         price: "$69.99",
         originalPrice: "$79.99",
         image: "s60.jpg",
         specifications: [
-            "Clinically dosed ingredients",
-            "Sustained energy and focus",
-            "Increased muscle pumps",
-            "No artificial dyes",
-            "30 servings per container"
+            "Pre-workout",
+            "Increase oxygen delivery to the muscles",
+            "Caffeine & B12 for energy and clarity",
+            "A refreshing BCAA drink with added caffeine and taurine to support performance and energy levels.",
+          
         ],
         featured: false
     },
 
       {
         id: 61,
-        title: "USN Pre-Workout",
+        title: "ZINC ",
         category: "USN",
         description: "Scientifically formulated pre-workout",
         price: "$69.99",
         originalPrice: "$79.99",
         image: "s61.jpg",
         specifications: [
-            "Clinically dosed ingredients",
-            "Sustained energy and focus",
-            "Increased muscle pumps",
-            "No artificial dyes",
-            "30 servings per container"
+            " One-a-day,high potency 25mg zinc",
+            "Contributes to normal immune function",
+            "Coated tablets,easy to swallow",
+           
         ],
         featured: false
     },
@@ -1436,18 +1335,17 @@ const products = [
 
       {
         id: 62,
-        title: "USN Pre-Workout",
+        title: "AMINO",
         category: "USN",
         description: "Scientifically formulated pre-workout",
         price: "$69.99",
         originalPrice: "$79.99",
         image: "s62.jpg",
         specifications: [
-            "Clinically dosed ingredients",
-            "Sustained energy and focus",
-            "Increased muscle pumps",
-            "No artificial dyes",
-            "30 servings per container"
+            "Maintains Hydration",
+            "Boosts stamina for training",
+            "Helps to recover faster",
+            "4.8 G BCAAS",
         ],
         featured: false
     },
@@ -1456,18 +1354,18 @@ const products = [
 
       {
         id: 63,
-        title: "USN Pre-Workout",
+        title:"ANABOLIC MASS",
         category: "USN",
         description: "Scientifically formulated pre-workout",
         price: "$69.99",
         originalPrice: "$79.99",
         image: "s63.jpg",
         specifications: [
-            "Clinically dosed ingredients",
-            "Sustained energy and focus",
-            "Increased muscle pumps",
-            "No artificial dyes",
-            "30 servings per container"
+            "54G PROTEIN ",
+            "5 G CERATINE",
+            "850 MG HMB ",
+            "Builds lean muscle mass",
+            "Enhances physical performance and speeds recovery"
         ],
         featured: false
     },
@@ -1475,60 +1373,39 @@ const products = [
 
       {
         id: 64,
-        title: "USN Pre-Workout",
+        title: "CLA ",
         category: "USN",
         description: "Scientifically formulated pre-workout",
         price: "$69.99",
         originalPrice: "$79.99",
         image: "s64.jpg",
         specifications: [
-            "Clinically dosed ingredients",
-            "Sustained energy and focus",
-            "Increased muscle pumps",
-            "No artificial dyes",
-            "30 servings per container"
+            "Boosts weight loss",
+            "Powerful antioxidant",
+            "Supports the immune system",
+            "600MG GREAN TEA ",
+            "POLYPHENOLS"
         ],
         featured: false
     },
 
       {
         id: 65,
-        title: "USN Pre-Workout",
+        title: "MULTI-VITAMIN",
         category: "USN",
         description: "Scientifically formulated pre-workout",
         price: "$69.99",
         originalPrice: "$79.99",
         image: "s65.jpg",
         specifications: [
-            "Clinically dosed ingredients",
-            "Sustained energy and focus",
-            "Increased muscle pumps",
-            "No artificial dyes",
-            "30 servings per container"
+            "One capsule covers 100% of the daily requirement of essential vitamins",
+            "For a healthy immune system",
+            "Optimized with free radical scavengers",
+            "Activates the energy metabolism",
+          
         ],
         featured: false
     },
-
-      {
-        id: 67,
-        title: "USN Pre-Workout",
-        category: "USN",
-        description: "Scientifically formulated pre-workout",
-        price: "$69.99",
-        originalPrice: "$79.99",
-        image: "s67.jpg",
-        specifications: [
-            "Clinically dosed ingredients",
-            "Sustained energy and focus",
-            "Increased muscle pumps",
-            "No artificial dyes",
-            "30 servings per container"
-        ],
-        featured: false
-    },
-
-
-    
 
     // RSP Products
     {
@@ -1682,194 +1559,144 @@ const products = [
     },
      {
         id: 76,
-        title: "BPI SPORTS Best Protein",
+        title: "BCAA TROPLCAL PUNCH ",
         category: "RONNIE COLEMAN",
         description: "Multi-source protein blend",
         price: "$69.99",
         originalPrice: "$79.99",
         image: "76.jpg",
         specifications: [
-            "24g premium protein blend",
-            "Excellent taste profile",
-            "Easy mixing formula",
-            "Gluten-free",
-            "28 servings per container"
+            "4.4 BCAA ",
+            "0 SUGARS ",
+            "2:1:1 BCAA RATIO ",
+            "5 CALORIES ",
+           
         ],
         featured: false
     },
      {
         id: 77,
-        title: "BPI SPORTS Best Protein",
+        title: "KING MASS",
         category: "RONNIE COLEMAN",
         description: "Multi-source protein blend",
         price: "$69.99",
         originalPrice: "$79.99",
         image: "77.jpg",
         specifications: [
-            "24g premium protein blend",
-            "Excellent taste profile",
-            "Easy mixing formula",
+            "187 G CARB MATRIX",
+            "60G  PROTEIN ",
+            "3G CREATINE ",
             "Gluten-free",
-            "28 servings per container"
+            "6 G OF HEALTHY FATS "
         ],
         featured: false
     },
-     {
-        id: 78,
-        title: "BPI SPORTS Best Protein",
-        category: "RONNIE COLEMAN",
-        description: "Multi-source protein blend",
-        price: "$69.99",
-        originalPrice: "$79.99",
-        image: "78.jpg",
-        specifications: [
-            "24g premium protein blend",
-            "Excellent taste profile",
-            "Easy mixing formula",
-            "Gluten-free",
-            "28 servings per container"
-        ],
-        featured: false
-    },
-     {
-        id: 79,
-        title: "BPI SPORTS Best Protein",
-        category: "RONNIE COLEMAN",
-        description: "Multi-source protein blend",
-        price: "$69.99",
-        originalPrice: "$79.99",
-        image: "79.jpg",
-        specifications: [
-            "24g premium protein blend",
-            "Excellent taste profile",
-            "Easy mixing formula",
-            "Gluten-free",
-            "28 servings per container"
-        ],
-        featured: false
-    },
+     
+   
      {
         id: 80,
-        title: "BPI SPORTS Best Protein",
+        title: "Glutamine XS Unflavored Powder",
         category: "RONNIE COLEMAN",
         description: "Multi-source protein blend",
         price: "$69.99",
         originalPrice: "$79.99",
         image: "80.jpg",
         specifications: [
-            "24g premium protein blend",
-            "Excellent taste profile",
-            "Easy mixing formula",
-            "Gluten-free",
-            "28 servings per container"
+            "5G PURE GLUTAMINE ",
+            "0 DYES ",
+            "0 ADDED FILLERS ",
+            "0 ADDED FLAVORING ",
+       
         ],
         featured: false
     },
      {
         id: 81,
-        title: "BPI SPORTS Best Protein",
+        title: "AMINO ",
         category: "RONNIE COLEMAN",
         description: "Multi-source protein blend",
         price: "$69.99",
         originalPrice: "$79.99",
         image: "81.jpg",
         specifications: [
-            "24g premium protein blend",
-            "Excellent taste profile",
-            "Easy mixing formula",
-            "Gluten-free",
-            "28 servings per container"
-        ],
+            "10 G ESSENTIAL AMINO ACIDS ",
+            "5G INSTANTIZED AMINO ACIDS ",
+            "3G FAT LOSS SUPPORT COMPLEX ",
+            "2.7 G HYDRATION COMPLEX",
+                   ],
         featured: false
     },
      {
         id: 82,
-        title: "BPI SPORTS Best Protein",
+        title: "CREATINE ",
         category: "RONNIE COLEMAN",
         description: "Multi-source protein blend",
         price: "$69.99",
         originalPrice: "$79.99",
         image: "82.jpg",
         specifications: [
-            "24g premium protein blend",
-            "Excellent taste profile",
-            "Easy mixing formula",
-            "Gluten-free",
-            "28 servings per container"
+            "5G PER SCOOP ",
+            "0 CARBS ",
+            "0 CALORIES ",
+            "100% PURE CREATINE ",
+          
         ],
         featured: false
     },
      {
         id: 83,
-        title: "BPI SPORTS Best Protein",
-        category: "RONNIE COLEMAN",
-        description: "Multi-source protein blend",
-        price: "$69.99",
-        originalPrice: "$79.99",
-        image: "83.jpg",
-        specifications: [
-            "24g premium protein blend",
-            "Excellent taste profile",
-            "Easy mixing formula",
-            "Gluten-free",
-            "28 servings per container"
-        ],
-        featured: false
-    },
-     {
-        id: 84,
-        title: "BPI SPORTS Best Protein",
+        title: "KING WHEY ",
         category: "RONNIE COLEMAN",
         description: "Multi-source protein blend",
         price: "$69.99",
         originalPrice: "$79.99",
         image: "84.jpg",
         specifications: [
-            "24g premium protein blend",
-            "Excellent taste profile",
-            "Easy mixing formula",
-            "Gluten-free",
-            "28 servings per container"
+            "High Quality Whey Protein – Contains 23G of protein per scoop ",
+            "Cost Effective – Whey XS was built to deliver a high quality protein powder that doesn’t require financing to buy it",
+            "Premium Flavor – Despite King Whey Sport being an affordable whey protein powder we still used our most premium flavoring system",
+            
         ],
         featured: false
     },
      {
-        id: 85,
-        title: "BPI SPORTS Best Protein",
+        id: 84,
+        title: "KING WHEY",
         category: "RONNIE COLEMAN",
         description: "Multi-source protein blend",
         price: "$69.99",
         originalPrice: "$79.99",
         image: "85.jpg",
         specifications: [
-            "24g premium protein blend",
-            "Excellent taste profile",
-            "Easy mixing formula",
-            "Gluten-free",
-            "28 servings per container"
+            "PROTEIN 23G ",
+            "CALCIUM 124 MG ",
+            "IRON 1 MG ",
+            "POTASSIUM 318 MG ",
+          
         ],
         featured: false
     },
      {
-        id: 86,
-        title: "BPI SPORTS Best Protein",
+        id: 85,
+        title: " BCAA ",
         category: "RONNIE COLEMAN",
         description: "Multi-source protein blend",
         price: "$69.99",
         originalPrice: "$79.99",
         image: "86.jpg",
         specifications: [
-            "24g premium protein blend",
-            "Excellent taste profile",
-            "Easy mixing formula",
+            "4.4 G BCAA ",
+            "0 SUGARS ",
+            "2:1:1 BCAA RATIO ",
             "Gluten-free",
             "28 servings per container"
         ],
         featured: false
     },
+    
      {
         id: 87,
-        title: "BPI SPORTS Best Protein",
+        title: "L-CARNITINE ",
         category: "RONNIE COLEMAN",
         description: "Multi-source protein blend",
         price: "$69.99",
@@ -1893,11 +1720,11 @@ const products = [
         originalPrice: "$79.99",
         image: "88.jpg",
         specifications: [
-            "24g premium protein blend",
-            "Excellent taste profile",
-            "Easy mixing formula",
-            "Gluten-free",
-            "28 servings per container"
+            "0 SUGARS",
+            "0 CARBS",
+            "0 ARTIFICIAL COLORS ",
+            "0 SDY OR DAIRY ",
+         
         ],
         featured: false
     },
@@ -1937,35 +1764,31 @@ const products = [
     },
      {
         id: 92,
-        title: "BPI SPORTS Best Protein",
+        title: "L-ARGININE ",
         category: "RONNIE COLEMAN",
         description: "Multi-source protein blend",
         price: "$69.99",
         originalPrice: "$79.99",
         image: "92.jpg",
         specifications: [
-            "24g premium protein blend",
-            "Excellent taste profile",
-            "Easy mixing formula",
-            "Gluten-free",
-            "28 servings per container"
+            "180 SERVINGS ",
+            "L-ARGININE ",
+        
         ],
         featured: false
     },
      {
         id: 93,
-        title: "BPI SPORTS Best Protein",
+        title: "TRIB",
         category: "RONNIE COLEMAN",
         description: "Multi-source protein blend",
         price: "$69.99",
         originalPrice: "$79.99",
         image: "93.jpg",
         specifications: [
-            "24g premium protein blend",
-            "Excellent taste profile",
-            "Easy mixing formula",
-            "Gluten-free",
-            "28 servings per container"
+            "500MG TRIBULUS ",
+            "0 ADDED FILLERS ",
+            "0 STIMULANTS ",
         ],
         featured: false
     },
